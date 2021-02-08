@@ -1,11 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Ubuntu");
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Archivo Black", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,6 +28,6 @@ body {
 }
 
 .loading-text {
-  font-size: 50px;
-  color: #fff;
+  font-size: 150px;
+  color: rgba(255, 255, 255, 0.65);
 }
