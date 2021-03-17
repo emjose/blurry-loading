@@ -1,6 +1,6 @@
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Project Title](Assets/inter-006-blurry-loading.png)</a> 
+<a href=#table-of-contents>![Blurry Loading](Assets/inter-006-blurry-loading.png)</a> 
 
 #
 <p id="table-of-contents"><p>
