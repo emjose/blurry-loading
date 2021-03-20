@@ -1,3 +1,10 @@
+<table><tr>
+<td> <a href="https://github.com/emjose/expanding-cards"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+</tr></table>
+
+
 <p id="project-title"><p>
 
 <a href=#table-of-contents>![Blurry Loading](Assets/inter-006-blurry-loading.png)</a> 
@@ -61,12 +68,12 @@ test
 
 #
 
-<table><tr>
+<!-- <table><tr>
 <td> <a href="https://github.com/emjose/expanding-cards"><img src="Assets/inter-arrow-prev.png" alt="previous" style="width: 280px;"/></a> </td>
 <td> <a href=#project-title><img src="Assets/inter-arrow-top.png" alt="back to top" style="width: 280px;"/></a> </td>
 <td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/inter-arrow-next.png" alt="next" style="width: 280px;"/></a> </td>
-</tr></table>
+</tr></table> -->
 
-<!-- <a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a> -->
+<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a>
 
 
