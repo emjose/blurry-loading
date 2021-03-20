@@ -1,7 +1,7 @@
 <p id="header"><p>
 <table><tr>
 <td> <a href="https://github.com/emjose/expanding-cards"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
-<td> <a href="https://github.com/emjose/blurry-loading"><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href=#header><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
 <td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
 </tr></table>
 
