@@ -4,7 +4,7 @@
 <td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
 </tr></table>
 
-#
+<br>
 
 <p id="project-title"><p>
 
