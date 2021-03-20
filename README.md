@@ -1,3 +1,4 @@
+<p id="header"><p>
 <table><tr>
 <td> <a href="https://github.com/emjose/expanding-cards"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
 <td> <a href="https://github.com/emjose/blurry-loading"><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
@@ -77,6 +78,6 @@ test
 <td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/inter-arrow-next.png" alt="next" style="width: 280px;"/></a> </td>
 </tr></table> -->
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a>
+<a href=#header>![Back to Top](Assets/inter-congrats.png)</a>
 
 
