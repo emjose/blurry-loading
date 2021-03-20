@@ -62,11 +62,11 @@ test
 #
 
 <table><tr>
-<td> <img src="Assets/inter-arrow-prev.png" alt="Drawing" style="width: 280px;"/> </td>
-<td> <img src="Assets/inter-arrow-top.png" alt="Drawing" style="width: 280px;"/> </td>
-<td> <img src="Assets/inter-arrow-next.png" alt="Drawing" style="width: 280px;"/> </td>
+<td> <a href="https://github.com/emjose/expanding-cards"><img src="Assets/inter-arrow-prev.png" alt="previous" style="width: 280px;"/></a> </td>
+<td> <a href=#project-title><img src="Assets/inter-arrow-top.png" alt="back to top" style="width: 280px;"/></a> </td>
+<td> <a href="https://github.com/emjose/password-strength-background"><img src="Assets/inter-arrow-next.png" alt="next" style="width: 280px;"/></a> </td>
 </tr></table>
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a>
+<!-- <a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a> -->
 
 
