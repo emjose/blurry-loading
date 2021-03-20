@@ -10,6 +10,8 @@
 
 <a href=#table-of-contents>![Blurry Loading](Assets/inter-006-blurry-loading.png)</a> 
 
+<br>
+
 <a href="https://emjose.github.io/blurry-loading">![Blurry Loading](Assets/preview-006-blurry-loading.png)</a> 
 
 #
