@@ -2,7 +2,10 @@
 
 <a href=#table-of-contents>![Blurry Loading](Assets/inter-006-blurry-loading.png)</a> 
 
+<a href="https://emjose.github.io/blurry-loading">![Blurry Loading](Assets/preview-006-blurry-loading.png)</a> 
+
 #
+
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
