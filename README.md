@@ -25,6 +25,12 @@
 test\
 test
 
+<table><tr>
+<td> <img src="Assets/inter-arrow-prev.png" alt="Drawing" style="width: 280px;"/> </td>
+<td> <img src="Assets/inter-arrow-top.png" alt="Drawing" style="width: 280px;"/> </td>
+<td> <img src="Assets/inter-arrow-next.png" alt="Drawing" style="width: 280px;"/> </td>
+</tr></table>
+
 #
 
 <p id="installation"><p>
