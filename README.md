@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -39,6 +41,8 @@
 -   I made two mini projects with blurry-to-clear effects. See <a href="https://github.com/emjose/password-strength-background/#header">second project</a>.
 
 -   In this project, the background becomes sharper as the page loads to completion.
+
+<br>
 
 #
 
@@ -58,6 +62,8 @@ git clone git@github.com:emjose/blurry-loading.git && cd blurry-loading
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -65,6 +71,10 @@ open index.html
 <a href="https://emjose.github.io/blurry-loading">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
 <a href="https://emjose.github.io/blurry-loading">![Live Site](Assets/006-blurry.gif)</a>
+
+**[Blurry Loading](https://emjose.github.io/blurry-loading/)** is responsive and is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
 
 #
 
@@ -83,6 +93,8 @@ open index.html
 -   #### [Blurry Loading YouTube Tutorial](https://youtu.be/kUHMRyUfdKw) by [Asish George Tech](https://www.youtube.com/channel/UC9v2BVgmJCQNN_RJKN6pZDw)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
