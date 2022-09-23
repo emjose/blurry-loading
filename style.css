@@ -1,33 +1,102 @@
 @import url("https://fonts.googleapis.com/css?family=Ubuntu");
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");
 
+:root {
+	--black: #000;
+	--white: #fff;
+	--github-fill: var(--white);
+	--github-color: var(--black);
+	--github-focus: #fb963e;
+	--text-color: rgba(255, 255, 255, 0.65);
+	--archivo: "Archivo Black", sans-serif;
+	--image-1: url("https://images.unsplash.com/photo-1502459225234-12ab69bd5f11?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+		no-repeat center center/cover;
+	--image-2: url("https://images.unsplash.com/photo-1502459225234-12ab69bd5f11?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
+		no-repeat center center fixed;
+}
+
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html {
+	background: var(--image-2);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 body {
-  font-family: "Archivo Black", sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  overflow: hidden;
-  margin: 0;
+	font-family: var(--archivo);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	overflow: hidden;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .bg {
-  background: url("https://images.unsplash.com/photo-1502459225234-12ab69bd5f11?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80")
-    no-repeat center center/cover;
-  position: absolute;
-  top: -30px;
-  left: -30px;
-  width: calc(100vw + 60px);
-  height: calc(100vh + 60px);
-  z-index: -1;
-  filter: blur(0px);
+	position: absolute;
+	top: -20px;
+	bottom: -20px;
+	left: -20px;
+	right: -20px;
+	z-index: -1;
+	filter: blur(0px);
 }
 
 .loading-text {
-  font-size: 200px;
-  color: rgba(255, 255, 255, 0.65);
+	font-size: 200px;
+	color: var(--text-color);
+}
+
+.github-corner:focus svg path {
+	fill: var(--github-focus);
+}
+
+.github-corner:focus .octo-arm,
+.github-corner:focus .octo-body {
+	fill: var(--github-color);
+}
+
+.github-corner:focus .octo-arm,
+.github-corner:hover .octo-arm {
+	animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+	0%,
+	100% {
+		transform: rotate(0);
+	}
+	20%,
+	60% {
+		transform: rotate(-25deg);
+	}
+	40%,
+	80% {
+		transform: rotate(10deg);
+	}
+}
+
+@media (max-width: 500px) {
+	.github-corner {
+		display: none;
+	}
+
+	.bg {
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+
+	.loading-text {
+		font-size: 100px;
+	}
 }
